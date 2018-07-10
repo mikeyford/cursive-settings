@@ -179,6 +179,12 @@
         <option name="FOREGROUND" value="eddd3d" />
       </value>
     </option>
+    <option name="Clojure Keyword">
+      <value>
+        <option name="FOREGROUND" value="efad9a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
