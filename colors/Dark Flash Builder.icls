@@ -185,6 +185,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Clojure Numbers">
+      <value>
+        <option name="FOREGROUND" value="5fc0ed" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
