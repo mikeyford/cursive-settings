@@ -6,14 +6,38 @@
   <action id="ActivateREPLToolWindow">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ExportToTextFile" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="GotoTest" />
   <action id="GuiDesigner.CreateListener" />
+  <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
 </keymap>
