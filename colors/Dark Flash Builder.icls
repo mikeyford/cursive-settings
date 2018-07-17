@@ -196,6 +196,11 @@
         <option name="FOREGROUND" value="5fc0ed" />
       </value>
     </option>
+    <option name="Clojure Strings">
+      <value>
+        <option name="FOREGROUND" value="67ccaa" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
