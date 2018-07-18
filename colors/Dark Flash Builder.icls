@@ -185,6 +185,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Clojure Line comment">
+      <value>
+        <option name="FOREGROUND" value="698869" />
+      </value>
+    </option>
     <option name="Clojure Literal">
       <value>
         <option name="FOREGROUND" value="df97af" />
@@ -198,7 +203,7 @@
     </option>
     <option name="Clojure Strings">
       <value>
-        <option name="FOREGROUND" value="67ccaa" />
+        <option name="FOREGROUND" value="90af90" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -523,6 +528,11 @@
         <option name="FOREGROUND" value="d197d9" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="dfc47d" />
@@ -542,7 +552,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
