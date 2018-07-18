@@ -188,6 +188,7 @@
     <option name="Clojure Line comment">
       <value>
         <option name="FOREGROUND" value="698869" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Clojure Literal">
