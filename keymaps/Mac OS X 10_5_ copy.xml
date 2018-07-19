@@ -3,10 +3,19 @@
     <keyboard-shortcut first-keystroke="meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id=":cursive.repl.actions/next-history-item">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id=":cursive.repl.actions/prev-history-item">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
@@ -19,6 +28,8 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
@@ -32,8 +43,11 @@
   </action>
   <action id="GotoTest" />
   <action id="GuiDesigner.CreateListener" />
+  <action id="GuiDesigner.ExpandSelection" />
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -52,4 +66,5 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SmartSelect" />
 </keymap>
