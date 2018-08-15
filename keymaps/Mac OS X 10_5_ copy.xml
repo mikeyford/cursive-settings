@@ -2,6 +2,7 @@
   <action id=":cursive.repl.actions/jump-to-repl">
     <keyboard-shortcut first-keystroke="meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -16,6 +17,7 @@
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id=":cursive.repl.actions/switch-namespace">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -38,7 +40,7 @@
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleStickySelection">
@@ -66,12 +68,14 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
