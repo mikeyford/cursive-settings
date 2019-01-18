@@ -12,9 +12,7 @@
   <action id=":cursive.repl.actions/next-history-item">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id=":cursive.repl.actions/prev-history-item">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
+  <action id=":cursive.repl.actions/prev-history-item" />
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -61,7 +59,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorRightWithSelection" />
-  <action id="EditorSelectWord" />
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
